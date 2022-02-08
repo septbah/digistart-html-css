@@ -1,6 +1,19 @@
+body{
+margin:0px;
+}
+
+section{
+padding :30px;
+}
+
+h3{
+text-align:center;
+}
+
+h2.nav
 
 
-
+<ul>
 /*
 Écrire une règle pour que l'élément `<body>` ait des marges extérieures (`margin`) de `0` pixel.
 */
@@ -95,6 +108,4 @@ Une façon de centrer les images est de les afficher en block:
 Écrire les règles nécessaires pour que les ancres dans le `<nav>` changent de couleur et ne soient plus soulignées quand le curseur de la souris passe dessus.
 Rechercher l'attribut "text-decoration"
 */
-
-
 
