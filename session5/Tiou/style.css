@@ -9,8 +9,11 @@ h3 {
 }
 
 h2 {
-  
+  margin: 0px;
+  pandding: 20px;
 }
+
+
 
 /*
 Écrire une règle pour que l'élément `<body>` ait des marges extérieures (`margin`) de `0` pixel.

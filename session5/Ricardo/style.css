@@ -7,11 +7,15 @@ body {
 h3 {
   text-align:center
 }
-nav h2 {
-  padding:0px;
-  margin:20px;
+h2.nav {
+  padding: 0px;
+  margin: 20px;
 }
-
+ul.nav {
+  margin: 20px;
+  padding: 0px;
+  list-style-type:none
+}
 
 /*
 Écrire une règle pour que l'élément `<body>` ait des marges extérieures (`margin`) de `0` pixel.
