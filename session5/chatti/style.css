@@ -1,3 +1,43 @@
+body{
+  margin:0px;
+}
+
+section{
+  padding:30px;
+}
+
+h3{
+  text-align:center ;
+}
+
+h2.nav{
+  margin:0px;
+
+  padding: 20px;
+}
+
+ul.nav{
+  margin:20px;
+  padding:0px;
+  list-style-type:none;
+}
+
+a{
+  color:black;
+}
+
+image{
+border-radius:15px;
+width:100;
+}
+
+#VILLE{
+  background-color:rgb(4, 117, 186)
+}
+
+#GRANDS ESPACES{
+  background-color:rgb(4, 117, 186)
+}
 
 
 
